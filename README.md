@@ -13,7 +13,7 @@ Programs I am proficient at:
 
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... PENDING.
 
 <!---
 Minhaz000555/Minhaz000555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
