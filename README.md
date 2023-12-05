@@ -1,6 +1,6 @@
 ![image](https://github.com/Minhaz000555/Minhaz000555/assets/128938912/bfaa8f78-15c3-48a7-8449-4f22dfcbc30a)
 - 👋 Hello, I’m Minhaz.
-- 🎯 I am interested in the data analytics field. My short-term goal is to become an apprentice, and my mid-term goal is to become a data analyst.
+- 🎯 I am interested in the data analytics field. My short-term goal is to become a junior analyst and my mid-term goal is to become an experienced data analyst.
 - 🥇 Having recently completed a data bootcamp with JustIT, I have a strong interest in Excel, Power BI and SQL, specifically analysing, interpreting and visualising data.
 - 🌱 I am currently learning excel formulas to adapt to any tasks that I have to deal with to prepare myself for the future.
 
