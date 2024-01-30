@@ -3,7 +3,7 @@
 - 🎯 I am interested in the data analytics field. My short-term goal is to become a junior analyst and my mid-term goal is to become an experienced data analyst.
 - 🥇 Having recently completed a data bootcamp with JustIT, I have a strong interest in Excel, Power BI and SQL, specifically analysing, interpreting and visualising data.
 - 🌱 I am currently learning excel formulas to adapt to any tasks that I have to deal with to prepare myself for the future.
-- - 📫 How to reach me: myprof.work50@gmail.com.
+- 📫 How to reach me: myprof.work50@gmail.com.
 
 Programs I am proficient at:
 
