@@ -1,6 +1,6 @@
 ![image](https://github.com/Minhaz000555/Minhaz000555/assets/128938912/bfaa8f78-15c3-48a7-8449-4f22dfcbc30a)
 - 👋 Hello, I’m Minhaz.
-- 🎯 I am interested in the tech field after having completed a boot camp to use my skills, develop and grow within this industry.
+- 🎯 I am interested in the tech field after having completed a boot camp and use my skills, develop and grow within this industry.
 - 🥇 Having recently completed a data bootcamp with JustIT, I have a strong interest in Excel, Power BI and SQL, specifically analysing, interpreting and visualising data.
 - 🌱 I am currently creating projects and uploading them on my profile.
 - 📫 How to reach me: myprof.work50@gmail.com.
